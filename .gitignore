@@ -1,0 +1,7 @@
+
+Meta/
+Test/
+Train/
+Results/
+*.csv
+*.h5
